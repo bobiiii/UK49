@@ -1,0 +1,17 @@
+
+/* Minimal app-specific styles */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Loading spinner optimization */
+.page-loader {
+  will-change: opacity;
+  contain: layout style paint;
+}
+
+.page-loader .spinner {
+  will-change: transform;
+  contain: layout style paint;
+}
