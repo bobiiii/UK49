@@ -124,7 +124,7 @@ const Results = () => {
         title="Latest UK49s Results Today - Live Draw Numbers"
         description="View the latest UK49s lottery results for today's Lunchtime and Teatime draws. Get live winning numbers, prize breakdowns, and recent draw results updated daily."
         keywords="UK49s results today, latest UK49s results, UK49s winning numbers, lunchtime results, teatime results, UK49s live results, lottery results today"
-        // canonical="https://lucky-number-finder-uk.lovable.app/results"
+        canonical="https://lucky-number-finder-uk.lovable.app/results"
       />
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-8">

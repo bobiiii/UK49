@@ -37,8 +37,8 @@ const Head = ({ title, description, keywords, canonical }: HeadProps) => {
     }
 
     // For all other paths, append to base URL (remove trailing slash if exists)
-    const cleanPath = path.endsWith('/') ? path.slice(0, -1) : path;
-    return `${baseUrl}${cleanPath}`;
+    // const cleanPath = path.endsWith('/') ? path.slice(0, -1) : path;
+    // return `${baseUrl}${cleanPath}`;
   };
 
   const currentUrl = getCanonicalUrl();

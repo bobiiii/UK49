@@ -45,7 +45,7 @@ const History = () => {
         title="Complete UK49s Results History & Archive"
         description="Browse the complete UK49s lottery history archive with advanced search and filtering options. Find historical results by date, draw type, and more from our comprehensive database."
         keywords="UK49s history, lottery archive, historical results, search results, filter results, complete history, UK49s database, past draws"
-        // canonical="https://lucky-number-finder-uk.lovable.app/history"
+        canonical="https://lucky-number-finder-uk.lovable.app/history"
       />
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-8 overflow-x-hidden">

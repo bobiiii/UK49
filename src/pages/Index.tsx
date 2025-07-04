@@ -32,7 +32,7 @@ const Index = () => {
         title="Home - Latest UK49s Results & Predictions"
         description="Get the latest UK49s lottery results, expert predictions, and winning strategies. View today's Lunchtime and Teatime draws with comprehensive analysis."
         keywords="UK49s, lottery results, predictions, lunchtime draw, teatime draw, winning numbers, lottery analysis"
-        // canonical="https://abc.com/"
+        canonical="https://lucky-number-finder-uk.lovable.app/"
       />
       <Layout>
 
